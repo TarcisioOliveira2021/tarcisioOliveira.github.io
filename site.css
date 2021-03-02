@@ -1,0 +1,5 @@
+<!-- Aplica cor aos itens com a tag h1 e p -->
+h1,p {
+  color: blue;
+}
+

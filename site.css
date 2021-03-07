@@ -103,9 +103,10 @@ img.aboutmeimg{
 h1.redes{
   text-align: center;
   font-size: 1.6rem;
+  margin-top: 1.5rem;
 } 
 
-img.rede{
+rede{
   margin-right: auto;
   margin-left: auto;
 }

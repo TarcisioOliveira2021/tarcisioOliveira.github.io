@@ -105,7 +105,7 @@ h1.redes{
   margin-top: 1.5rem;
 } 
 
-div.redesociais{
+.container{
   width: 100vw;
   height: 100vh;
   display: flex;

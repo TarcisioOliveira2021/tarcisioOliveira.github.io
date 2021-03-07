@@ -4,10 +4,10 @@ body{
 }
 
 .px-3{
-  padding-right: 15rem;
-  padding-left: 15rem;
-  padding-top: 10rem;
-  padding-botton: 5rem;
+  padding-right: 15rem!important;
+  padding-left: 15rem!important;
+  padding-top: 10rem!important;
+  padding-botton: 5rem !important;
   text-align: center!important;
 }
 

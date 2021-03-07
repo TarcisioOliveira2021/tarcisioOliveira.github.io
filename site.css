@@ -16,3 +16,7 @@ img{
   padding-bottom: 3rem!important;
   text-aling: center;
 }
+
+.navbar-toggler:focus{
+  box-shadow: none;
+}

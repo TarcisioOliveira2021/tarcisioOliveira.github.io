@@ -85,6 +85,13 @@ h1{
   margin-top: 7.5rem;
 } 
 
+.aboutmetexto.main{
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    text-align: center!important;
+}
+
 .aboutmetexto{
     padding-left: 3rem;
     padding-right: 3rem;

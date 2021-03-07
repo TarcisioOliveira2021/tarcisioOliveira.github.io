@@ -63,5 +63,8 @@ a{
 .rodape{
   color: rgba(255,255,255,.5)!important;
   margin-top: auto!important;
-  text-aling: center!important;
 }
+
+.textautor{
+  text-align: center!important;
+} 

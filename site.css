@@ -37,3 +37,17 @@ p{
   margin-right:auto;
   margin-left: 0.5rem;
 } 
+
+.buttom:hover, .buttom:focus{
+  color:#333;
+  text-shadow: none;
+}
+
+.buttom{
+  background-color: #fff!important;
+  font-weight: 700!important;
+  border-color: #fff!important;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius:.3rem;
+}

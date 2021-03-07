@@ -5,7 +5,7 @@ body{
 
 .textoprincipal{
   text-align: center!important;
-  margin-bottom: 3rem!important;
+  padding-top:3rem!important;
 }
 
 img{
@@ -13,5 +13,6 @@ img{
 }
 
 .subtextoprincipal{
-  padding-bottom: 3rem;
+  padding-bottom: 3rem!important;
+  text-aling: center;
 }

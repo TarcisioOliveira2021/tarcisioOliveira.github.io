@@ -1,5 +1,5 @@
 body{
-  background-color: #212529!important;
+  background-color: #2b3036!important;
   color: #fff;
 }
 
@@ -12,6 +12,9 @@ img{
   border-radius: 50%;
   width: 40px;
   height: 40px;
+  margin-top: .2rem;
+  margin-right: .2rem;
+  margin-bottom: .2rem;
 }
 
 .subtextoprincipal{

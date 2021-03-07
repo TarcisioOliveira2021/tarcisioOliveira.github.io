@@ -24,3 +24,7 @@ img{
 .navbar-toggler{
   border: 1px none transparent;
 }
+
+p{
+  margin-top: 1rem;
+} 

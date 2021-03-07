@@ -53,6 +53,9 @@ p{
   padding: .5rem 1rem;
   font-size: 1.25rem;
   border-radius:.3rem;
+}
+
+a{
   color: #333;
   text-decoration: none;
-}
+}  

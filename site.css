@@ -87,15 +87,15 @@ h1{
 
 .aboutmetextomain{
     padding-top: 6.2rem!important;
-    padding-left: 3rem;
-    padding-right: 3rem;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center!important;
     margin-top: 7.5rem;
 }
 
 .aboutmetexto{
-    padding-left: 3rem;
-    padding-right: 3rem;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center!important;
 } 
 

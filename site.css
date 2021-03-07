@@ -10,3 +10,7 @@ body{
   padding-botton: 5rem;
   text-align: center!important;
 }
+
+img{
+  border-radius: 50%;
+}

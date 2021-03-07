@@ -83,3 +83,9 @@ h1{
   width: 100px;
   height: 100px;
 }
+
+.aboutmetext{
+    padding-left: 3rem;
+    padding-right: 3rem;
+    text-align: center!important;
+} 

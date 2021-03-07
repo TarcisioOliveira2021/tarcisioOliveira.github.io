@@ -66,6 +66,11 @@ a{
   text-align: center;
 }
 
+.rodape:hover, .rodape:focus{
+  color: #595959;
+  text-shadow: none;
+}
+
 .textautor{
   text-align: center!important;
   color: #fff;

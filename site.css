@@ -41,12 +41,12 @@ p{
   margin-left: 0.5rem;
 } 
 
-.buttom:hover, .buttom:focus{
+.buttomucsal:hover, .buttomucsal:focus , .buttommario:hover , .buttommario:focus{
   color:#333;
   text-shadow: none;
 }
 
-.buttom{
+.buttomucsal, .buttommario{
   background-color: #fff!important;
   font-weight: 700!important;
   border-color: #fff!important;

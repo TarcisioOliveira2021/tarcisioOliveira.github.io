@@ -3,14 +3,15 @@ body{
   color: #fff;
 }
 
-.px-3{
-  padding-right: 15rem!important;
-  padding-left: 15rem!important;
-  padding-top: 10rem!important;
-  padding-botton: 5rem !important;
+.textoprincipal{
   text-align: center!important;
+  margin-bottom: 3rem!important;
 }
 
 img{
   border-radius: 50%;
+}
+
+.subtextoprincipal{
+  padding-bottom: 3rem;
 }

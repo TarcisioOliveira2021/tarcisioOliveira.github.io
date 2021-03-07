@@ -26,6 +26,7 @@ img{
 
 .navbar-toggler:focus{
   box-shadow: none;
+  padding: 0;
 }
 
 .navbar-toggler{

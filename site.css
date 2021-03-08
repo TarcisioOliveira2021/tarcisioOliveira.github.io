@@ -117,3 +117,12 @@ h1.redes{
     margin: auto;
 }
 
+.buttonform{
+  width: 100%!important;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: .3rem;
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+} 

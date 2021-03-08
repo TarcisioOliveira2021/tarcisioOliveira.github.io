@@ -109,3 +109,9 @@ h1.redes{
     display: flex; 
     justify-content: center; 
 }
+
+#containerform{
+    display: flex; 
+    justify-content: center; 
+}
+

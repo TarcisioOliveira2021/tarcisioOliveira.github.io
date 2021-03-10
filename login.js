@@ -1,3 +1,3 @@
 Function bomdia(){
-  alert("Bom dia sangue bom ! ");
+  alert('Bom dia sangue bom !');
 }  

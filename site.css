@@ -120,13 +120,15 @@ h1.redes{
 }
 
 .buttonform{
-  width: 100%!important;
-  padding: .5rem 1rem;
-  font-size: 1.25rem;
-  border-radius: .3rem;
-  color: #fff;
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+    width: 100%!important;
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    border-radius: .3rem;
+    color: #595959;
+    background-color: #fff!important;
+    text-decoration: none;
+    border-color: #fff;
 } 
 
 .subtextoprincipallogin{

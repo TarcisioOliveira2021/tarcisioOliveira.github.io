@@ -1,5 +1,5 @@
-function bomdia(){
-  alert("Bom dia sangue bom !");
+function salve(){
+  alert("Um salve pra todo mundo !");
 }
 
 function botaoEvento(){

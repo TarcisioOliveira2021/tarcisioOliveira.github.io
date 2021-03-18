@@ -160,4 +160,9 @@ h1.redes{
   margin-right: auto;
   border-radius: 40%;
 }
+
+.MainTheme{
+   display: flex; 
+   justify-content: center; 
+} 
  

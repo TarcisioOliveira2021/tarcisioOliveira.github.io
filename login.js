@@ -23,7 +23,7 @@ function trocandoBackground(){
    }else{
      semSom.style.display = "block";
    }
-   },false);
+   }
   } 
     
 

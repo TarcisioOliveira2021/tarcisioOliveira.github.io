@@ -13,5 +13,20 @@ function botaoEvento(){
      form.submit()
   }
   
+  function trocandoBackground(){
+    var comSom = document.getElementById("c_som");  
+    var semSom = document.getElementById("s_som");
+    
+    semSom.style.display = "block";
+    comSom.addEventListener("click",function(){
+      if(semSom.style.display == "block"){
+        semSom.style.display = "none";
+      }else{
+        semSom.style.display = "block";
+      }
+    },false);
+  } 
+    
+
 } 
 

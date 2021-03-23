@@ -161,4 +161,21 @@ h1.redes{
   border-radius: 40%;
 }
 
- 
+.top-btns-sound-on {
+    background-image: url(https://www.jp.squareenix.com/octopathtraveler_SP/imgs/top/btn_sound_on.png)!important;
+}
+
+.top-btns-sound {
+    position: absolute;
+    width: 33px;
+    height: 24px;
+    top: 58px;
+    left: 58px;
+    background-image: url(../imgs/top/btn_sound_off.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 2s;
+}
+

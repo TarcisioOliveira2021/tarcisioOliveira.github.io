@@ -168,7 +168,7 @@ h1.redes{
     height: 24px;
     top: 58px;
     left: 58px;
-    background-image: url("https://www.jp.square-enix.com/octopathtraveler_SP/imgs/top/btn_sound_on.png");
+    background-image: url("https://www.jp.square-enix.com/octopathtraveler_SP/imgs/top/btn_sound_off.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     cursor: pointer;
@@ -176,3 +176,6 @@ h1.redes{
     transition: opacity 2s;
 }
 
+.top-btns-sound-on {
+    background-image: url("https://www.jp.square-enix.com/octopathtraveler_SP/imgs/top/btn_sound_on.png")!important;
+}

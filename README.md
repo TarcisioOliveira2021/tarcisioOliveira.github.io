@@ -20,7 +20,7 @@ or download the zip from the green button at the beginning of the repository
 
 Tarcisio de Oliveira 
 	
-[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) | 
+[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) 
 
 
 

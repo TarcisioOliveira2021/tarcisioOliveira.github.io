@@ -19,12 +19,8 @@ or download the zip from the green button at the beginning of the repository
 ## 📝 Me
 
 Tarcisio de Oliveira 
-
-## Colaborators
 	
-[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) | 	 [<img src="https://avatars.githubusercontent.com/u/554178?v=4" width="200px;"/><br><sub><b>Mario Jorge</b></sub>](https://github.com/mariojp) |
-
-
+[<img src="https://avatars.githubusercontent.com/u/79255361?v=4" width="200px;"/><br><sub><b>Tarcisio Oliveira</b></sub>](https://github.com/TarcisioOliveira2021) | 
 
 
 
